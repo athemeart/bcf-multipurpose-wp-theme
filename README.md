@@ -6,7 +6,7 @@ Business Consultant Finder ( BCF ) Free Multipurpose WP Theme
 <img src="https://raw.githubusercontent.com/edatastyle/bcf-multipurpose-wp-theme/master/bcf.png" alt="Multipurpose WP Theme" />
 
 
-Business-Consultant-Finder ( BCF ) is a highly-flexible and feature-rich <a href="https://athemeart.com/downloads/business-consultant-finder/" target="_blank">Multipurpose WP Theme</a> created by aThemeArt. It has the strength of one of the most powerful page builders, elementor page builder, which allows you to create any type of website you like using its simple drag and drop interface. 
+Business-Consultant-Finder ( BCF ) is a highly-flexible and feature-rich <a href="https://athemeart.com/downloads/bcf-free-theme/" target="_blank">Multipurpose WP Theme</a> created by aThemeArt. It has the strength of one of the most powerful page builders, elementor page builder, which allows you to create any type of website you like using its simple drag and drop interface. 
 
 with an acknowledged, lightweight, approachable design and highly extendable. Fit to create almost any type of website such a blog, portfolio, consulting business, startup company, finance business lawyers, mentors, professional services website or <strong>wordpress store</strong>.
 
