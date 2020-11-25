@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+Business Consultant Finder ( BCF ) Free Multipurpose WP Theme
+========================================
 
-You can use the [editor on GitHub](https://github.com/athemeart/bcf-multipurpose-wp-theme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h4><a href="https://athemeart.com/demo/bcf/" target="_blank" >Live Demo.</a></h4>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://raw.githubusercontent.com/edatastyle/bcf-multipurpose-wp-theme/master/bcf.png" alt="Multipurpose WP Theme" />
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Business-Consultant-Finder ( BCF ) is a highly-flexible and feature-rich <a href="https://athemeart.com/downloads/bcf-free-theme/" target="_blank">Multipurpose WP Theme</a> created by aThemeArt. It has the strength of one of the most powerful page builders, elementor page builder, which allows you to create any type of website you like using its simple drag and drop interface. 
 
-```markdown
-Syntax highlighted code block
+with an acknowledged, lightweight, approachable design and highly extendable. Fit to create almost any type of website such a blog, portfolio, consulting business, startup company, finance business lawyers, mentors, professional services website or <strong>wordpress store</strong>.
 
-# Header 1
-## Header 2
-### Header 3
+BCF has a fully 99.99% responsive design that will always remain mobile-friendly and will render perfectly on all devices or apps view. It comes with a stylish, modern, and responsive, built on a one-page or multiple purpose layouts, and many different demos. the <strong>free WordPress theme</strong> is a perfect fit for both corporate and creative purposes, as it provides a clean and flexible appearance, an elegant portfolio, and an eye-catching online shop.
 
-- Bulleted
-- List
+<strong>Business Consultant Finder</strong> is WooCommerce compatible and features both Elementor and Layer Slider, Smart Slider 3, Revolution slider. So, grab away this stunning and interactive <a href="https://athemeart.com/downloads/business-consultant-finder/" target="_blank">WordPress Themes for Business</a> now. Look no further
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<h3>Frequently Asked Questions</h3>
+1. How to set top bar icon / text etc ?
+	please navigate, wp-admin -> Appearance -> Customize -> Theme Options ->   Global Options 
+2. what's logo right side text and icon ?
+	it's widget call  + Header Right Icon / Text .
+3. How to add logo right side widget .
+	please go wp-admin -> Appearance -> Widgets -> add to ( Header Right )
+4. How to set home page / blog slider ?
+   you can use any slider , we recommend smartslider3 , please downlaod smartslider3 and add widget 
 
-[Link](url) and ![Image](src)
-```
+5. How to find screenshot content icon box ?
+   please use elementor page builder , you will find lot of widget for content . 
+<h3>Installation</h3>   
+   
+1. In your admin panel, go to Appearance > Themes and click the Add New button.
+2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
+3. Click Activate to use your new theme right away.   
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/athemeart/bcf-multipurpose-wp-theme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h3>Upgrade Notice</h3>
+<pre>
+= 2.2.3 =
+* Predic_Widget class exists checkign
+= 2.2.2 =
+* remove plugin-install and updates enqueue_script(
+= 2.2.1 =
+* Gutenberg Gallery Slider
+* Screenshot updated
+* recommed seo plugins
+= 2.2 =
+* remove Modified Date
+= 2.0 =
+* Sidebar issue fixed
+= 1.9 =
+* Text Domain Updated
+= 1.8 =
+* Footer credit link update
+= 1.7 =
+* Review Team feedback updated
+= 1.6 =
+* Review Team feedback updated
+= 1.4 =
+* Review Team feedback updated
+= 1.3 =
+* Review team feedback updated
+= 1.2 =
+* skip links added
+= 1.1 =
+* common issue checked
+= 1.0 =
+* initial released
+</pre>
+<pre>
+== Copyright ==
+Business Consultant Finder WordPress Theme, Copyright (C) @ aThemeArt.com
+Business Consultant Finder is distributed under the terms of the GNU GPL
+</pre>
